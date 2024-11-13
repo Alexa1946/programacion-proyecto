@@ -1,0 +1,35 @@
+#include <Servo.h>
+
+Servo mißezvor
+
+// servo delantero derecho
+
+Servo miservo2;
+
+// servo delantero izquierdo
+
+Servo miservo3)
+
+// servo trasero derecho
+
+Servo miServo4/
+
+// servo trasero izquierdo
+
+void setup()
+
+miservo.attach(9): // servo delantero derecho
+
+mißervo2.attach(10); // servo delantere izquierdo
+
+miServo3.attach(11); // servo trasero derecho
+
+miServo4.attach (12): // servo trasero izquierdo
+
+void loop(){ miServoz.write(90) miservo4.write(90): delay (800):
+
+miServo2.write(70) mißervof.wzite(70): delay (800),
+
+miBervo.write(90): miServo3.write(90) delay (800):
+
+miServo.MEた(70): miServod.Me delay (800) (70);
